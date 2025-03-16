@@ -1,17 +1,17 @@
-# Etüt Ve Koçluk Merkezi
-
-## Açıklama
-2024-2025 Bahar dönemi Çevik Yaklaşımlarla Yazılım Geliştirme dersi dönem projesi olarak yapılmıştır.
+# Etüt Ve Koçluk Merkezi Backend
 
 ## Katkıda Bulunanlar
 - [Ahmet Mahir Demirelli](https://github.com/Ahmet-MahirDEMIRELLI)
-- [Nijat Majidli](https://google.com)
-- [Ali Mammadli](https://google.com)
-- [Osman Hayek](https://google.com)
-- [Tan](https://google.com)
 
-## Kullanılan Teknolojiler
-- [Jira](https://google.com)
+## Proje Kurulumu
+
+### Gereksinimler
 - 
-- 
+
+### Kurulum
+
+1. **Projeyi klonla:**
+   ```sh
+   git clone https://github.com/Ahmet-MahirDEMIRELLI/EKM.git
+   ```
 
