@@ -8,7 +8,7 @@
 - [Nijat Majidli](https://google.com)
 - [Ali Mammadli](https://google.com)
 - [Osman Hayek](https://google.com)
-- [Tan]([https://google.com](https://github.com/Ghurstird))
+- [Tan]((https://github.com/Ghurstird))
 
 ## Kullanılan Teknolojiler
 - [Jira](https://google.com)
