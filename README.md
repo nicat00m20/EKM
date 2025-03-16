@@ -7,7 +7,7 @@
 - [Ahmet Mahir Demirelli](https://github.com/Ahmet-MahirDEMIRELLI)
 - [Nijat Majidli](https://google.com)
 - [Ali Mammadli](https://github.com/alimammadli0)
-- [Osman Hayek](https://google.com)
+- [Osman Hayek](https://github.com/osmanhayek)
 - [Tan Erciyas](https://github.com/Ghurstird)
 
 ## Kullanılan Teknolojiler
