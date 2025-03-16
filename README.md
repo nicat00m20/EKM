@@ -1,5 +1,17 @@
 # Etüt Ve Koçluk Merkezi
-Çevik Yaklaşımlarla Yazılım Geliştirme Dersi Dönem Projesi
+
+## Açıklama
+2024-2025 Bahar dönemi Çevik Yaklaşımlarla Yazılım Geliştirme dersi dönem projesi olarak yapılmıştır.
 
 ## Katkıda Bulunanlar
-[Ahmet Mahir Demirelli](https://github.com/Ahmet-MahirDEMIRELLI)
+- [Ahmet Mahir Demirelli](https://github.com/Ahmet-MahirDEMIRELLI)
+- [Nijat Majidli](https://google.com)
+- [Ali Mammadli](https://google.com)
+- [Osman Hayek](https://google.com)
+- [Tan](https://google.com)
+
+## Kullanılan Teknolojiler
+- [Jira](https://google.com)
+- 
+- 
+
