@@ -3,10 +3,12 @@
 ## Katkıda Bulunanlar
 - [Ahmet Mahir Demirelli](https://github.com/Ahmet-MahirDEMIRELLI)
 
-## Gereksinimler
+## Proje Kurulumu
+
+### Gereksinimler
 - 
 
-## Kurulum
+### Kurulum
 
 1. **Projeyi klonla:**
    ```sh
