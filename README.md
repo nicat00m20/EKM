@@ -5,7 +5,7 @@
 
 ## Katkıda Bulunanlar
 - [Ahmet Mahir Demirelli](https://github.com/Ahmet-MahirDEMIRELLI)
-- [Nijat Majidli](https://google.com)
+- [Nijat Majidli](https://github.com/nicat00m20)
 - [Ali Mammadli](https://github.com/alimammadli0)
 - [Osman Hayek](https://github.com/osmanhayek)
 - [Tan Erciyas](https://github.com/Ghurstird)
